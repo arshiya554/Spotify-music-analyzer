@@ -20,7 +20,15 @@ The project combines a **React + TypeScript frontend** with a **Python Flask bac
 - 🔐 User authentication interface
 - ⚡ React-based frontend
 - 🐍 Flask-based backend
+### Dashboard
 
+![Dashboard](screenshots/dashboard.png)
+### Music analyzer
+
+![musicanalyzer](screenshots/musicanalyzer.png)
+### Playlist
+
+![playlist](screenshots/playlist.png)
 ## 🛠️ Technologies Used
 
 ### Frontend
